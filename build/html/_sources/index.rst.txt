@@ -36,7 +36,7 @@ Si se dan cuenta, no hay temas definidos en cada nivel, por lo que pueden usar l
 
 .. toctree::
    :caption: Niveles de dificultad
-   :maxdepth: 2
+   :maxdepth: 1
    
    Beginner <Ejercicios/Beginner/Introduccion>
    Intermediate <Ejercicios/Intermediate/Introduccion>
