@@ -6,3 +6,5 @@ py -m pip install -r requirements.txt
 
 - Abrir pagina
 start .\build\html\index.html
+
+NOTA: ESTO PUEDE VARIAR DEPENDIENDO DE TU COMPUTADOR
