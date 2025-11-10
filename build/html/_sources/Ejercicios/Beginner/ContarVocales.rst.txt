@@ -21,6 +21,6 @@ Ejemplo de input y output:
    :caption: Niveles de dificultad
    :maxdepth: 1
    
-   Solucion_1 <../../Soluciones/Beginner/Ejercicio1/Sol1>
-   Solucion_2 <../../Soluciones/Beginner/Ejercicio1/Sol2>
-   Solucion_3 <../../Soluciones/Beginner/Ejercicio1/Sol3>
+   Solución 1 <../../Soluciones/Beginner/Ejercicio1/Sol1>
+   Solución 2 <../../Soluciones/Beginner/Ejercicio1/Sol2>
+   Solución 3 <../../Soluciones/Beginner/Ejercicio1/Sol3>
