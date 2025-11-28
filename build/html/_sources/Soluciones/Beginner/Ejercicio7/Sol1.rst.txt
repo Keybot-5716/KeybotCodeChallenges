@@ -1,6 +1,8 @@
 Solución 1 Ejercicio 7
 ======================
 
+Primeramente se piensa en el problema como 
+
 .. code-block:: java
    :linenos:
 
